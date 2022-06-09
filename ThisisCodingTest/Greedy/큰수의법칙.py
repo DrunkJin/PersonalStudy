@@ -2,9 +2,7 @@
 # 2019 국가 교육기관 코딩 테스트
 # n개의 자연수가 주어짐, m개만큼 더해서 가장 큰수 만들기, k번까지 같은 항목 중복 가능
 
-# n, m, k = map(int, input().split())
-# data = list(map(int, input().split()))
-
+# 내가 짜본 코드
 n = 5
 m = 8
 k = 3
@@ -21,3 +19,6 @@ while(m >= 0):
     m -= k
     pointer += 1
 print(answer)
+
+# n, m, k = map(int, input().split())
+# data = list(map(int, input().split()))
