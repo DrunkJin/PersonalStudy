@@ -14,10 +14,7 @@ pointer = 0
 answer = 0
 
 while(m >= 0):
-    # print(m)
     if m < k:
-        print(data[pointer])
-        print(m % k)
         answer += data[pointer] * (m % k)
     else:
         answer += data[pointer] * k
