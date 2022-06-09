@@ -9,7 +9,7 @@ n = 5
 m = 8
 k = 3
 data = [2,4,5,4,6]
-data.sort(reverse=True)
+data.sort(reverse = True)
 pointer = 0
 answer = 0
 
