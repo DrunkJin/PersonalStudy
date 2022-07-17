@@ -1,5 +1,5 @@
-<h1 align="center"> Kaggle Competition </h1>
-<h3 align="center", a href = 'https://www.kaggle.com/cocoyachi'>My Kaggle Profile</h3>
+# Kaggle Competition
+### [My Kaggle Profile](https://www.kaggle.com/cocoyachi)
 
 </p> 
 
