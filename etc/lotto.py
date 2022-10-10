@@ -14,7 +14,5 @@ def lotto_num():
 while True:
   lotto = lotto_num()
   print(f"로또 예상 번호 : {lotto}")
-  print("더 추천을 받고 싶다면 Enter키를 눌러주세요.")
-
-  if keyboard.wait("enter"):
-    continue
+  print("추천을 더 받고 싶다면 Enter키를 눌러주세요.")
+  keyboard.wait("enter")
