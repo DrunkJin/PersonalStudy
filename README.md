@@ -2,8 +2,7 @@
 
  > **Getting_friendly_with_pytorch** <br/>
  > pytorch document 학습 <br/>
-<br/>
-
+> <br/>
 > **Leetcode** <br/>
 > Leetcode 알고리즘 테스트 풀이<br/>
 <br/>
