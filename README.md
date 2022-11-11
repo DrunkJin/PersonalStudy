@@ -1,6 +1,6 @@
 # 개인 공부 공간입니다.
 
- > **Getting_friendly_with_pytorch**
+ > **Getting_friendly_with_pytorch** <br/>
  > pytorch document 학습 <br/>
 <br/>
 
