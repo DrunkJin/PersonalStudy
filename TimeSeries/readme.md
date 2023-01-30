@@ -11,7 +11,7 @@
 
 ## Introduction
 1. futuresales files
- > !kaggle competition 중 하나인 "![_Predict Future Sales_](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales)"에 관한 분석 및 Machine Learning Code 입니다.
+ > !kaggle competition 중 하나인 "[_Predict Future Sales_](https://www.kaggle.com/competitions/competitive-data-science-predict-future-sales)"에 관한 분석 및 Machine Learning Code 입니다.
  > eda, lightgbm 파일로 나뉘어져 있습니다. 
 2. predict_EDA_ML file
  > simple한 판매량 데이터를 가지고 분석하고 간단한 Machine Learning을 진행하였습니다.  
