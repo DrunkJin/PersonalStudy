@@ -14,7 +14,7 @@ int main()
     cout << carrots;        // 변수의 값을 출력한다.
     cout << "carrots";
     cout << endl;
-    carrots << carrots - 1; // 변수의 값을 변경한다.
+    carrots = carrots - 1; // 변수의 값을 변경한다.
     cout << "Crunch, Crunch. Now there are " << carrots << "carrots." << endl;
     return 0;
 }
