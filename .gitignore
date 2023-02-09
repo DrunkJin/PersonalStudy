@@ -9,6 +9,7 @@ dist/
 # cpp settings
 *.json
 *.exe
+.vscode
 
 # Test Data
 *.csv
