@@ -162,9 +162,11 @@ __pycache__/
 *.gz
 *-ubyte
 
-#  확장자없는파일 무시방법
+#  확장자없는파일 무시방법 (특정폴더를 제외하되 그안에 cpp확장자는 무시하지않는다!)
 C++_Primer_Plus/
 !.cpp
+
+
 # C extensions
 
 # Distribution / packaging
