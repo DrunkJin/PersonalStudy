@@ -163,8 +163,8 @@ __pycache__/
 *-ubyte
 
 #  확장자없는파일 무시방법
-
-
+C++_Primer_Plus/
+!.cpp
 # C extensions
 
 # Distribution / packaging
