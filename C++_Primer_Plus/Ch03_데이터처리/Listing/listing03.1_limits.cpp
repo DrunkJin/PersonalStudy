@@ -10,7 +10,7 @@ int main()
     long long n_llong = LLONG_MAX;
 
     // sizeof 연산자는 데이터형이나 변수의 크기를 알아낸다.
-    cout << "int는 " << sizeof (int) << " 바이트이다." << endl;
+    cout << "int는 " << sizeof (int) << " 바이트이다." << endl;     // sizeof를 사용시에 데이터형 이름을 쓸 때는 괄호를 써야함
     cout << "short은 " << sizeof n_short << " 바이트이다." << endl;
     cout << "long은 " << sizeof n_long << " 바이트이다." << endl << endl;
     cout << "long long은 " << sizeof n_llong << " 바이트이다." << endl;
