@@ -21,13 +21,9 @@ int main()
     cin >> weight;
     
     double height_meter = (height_feet * feet_to_inch + height_inch) * inch_to_meter;
-    double weight_square_kg = (weight/pound_to_kg) * (weight/pound_to_kg);
+    double weight_kg = (weight/pound_to_kg);
     cout << "당신의 BMI는 ";
-    cout << height_meter/weight_square_kg;
+    cout << weight_kg / height_meter * height_meter;
     cout << "입니다." << endl;
-
     return 0;
 }
-
-
-// 다시풀어보기
