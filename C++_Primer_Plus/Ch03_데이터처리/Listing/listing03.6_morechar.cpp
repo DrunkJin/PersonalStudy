@@ -22,3 +22,9 @@ int main()
     cout << endl << "종료" << endl;
     return 0;
 }
+
+// M의 ASCII 코드는 77입니다.
+// 이 문자 코드에 1을 더해 보겠습니다.
+// N의 ASCII 코드는 78입니다.
+// cout.put(ch)를 사용하여 char형 변수 ch를 화면에 출력: N!
+// 종료

@@ -18,3 +18,7 @@ int main()
     cout << million * mint << endl;
     return 0;
 }
+
+// tub = 3.333333, a million tubs = 3333333.250000,
+// ten million tubs = 33333332.000000
+// mint = 3.333333 and a million mints = 3333333.333333
