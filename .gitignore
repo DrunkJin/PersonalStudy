@@ -4,7 +4,11 @@
 
 # 내입맛대로
 data/
-
+*.gz
+*.pth
+*.path
+*.DS_Store
+*-ubyte
 
 
 ### JupyterNotebooks ###
