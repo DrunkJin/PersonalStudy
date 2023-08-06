@@ -9,7 +9,7 @@ data/
 *.path
 *.DS_Store
 *-ubyte
-/data
+data/
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
